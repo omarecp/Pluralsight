@@ -1,0 +1,15 @@
+/Users/omarecp/Projects/Pluralsight/Pluralsight/bin/Debug/net9.0/Pluralsight
+/Users/omarecp/Projects/Pluralsight/Pluralsight/bin/Debug/net9.0/Pluralsight.deps.json
+/Users/omarecp/Projects/Pluralsight/Pluralsight/bin/Debug/net9.0/Pluralsight.runtimeconfig.json
+/Users/omarecp/Projects/Pluralsight/Pluralsight/bin/Debug/net9.0/Pluralsight.dll
+/Users/omarecp/Projects/Pluralsight/Pluralsight/bin/Debug/net9.0/Pluralsight.pdb
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.AssemblyInfoInputs.cache
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.AssemblyInfo.cs
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.csproj.CoreCompileInputs.cache
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.sourcelink.json
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.dll
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/refint/Pluralsight.dll
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.pdb
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/Pluralsight.genruntimeconfig.cache
+/Users/omarecp/Projects/Pluralsight/Pluralsight/obj/Debug/net9.0/ref/Pluralsight.dll
